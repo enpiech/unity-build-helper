@@ -1,0 +1,19 @@
+﻿{
+  "name": "me.enpiech.build-helper",
+  "version": "1.0.0",
+  "displayName": "Build Helper",
+  "description": "Help automated some build related stuff",
+  "unity": "2021.3",
+  "unityRelease": "16f1",
+  "dependencies": {
+  },
+  "keywords": [
+    "build-helper",
+    "build",
+    "helper"
+  ],
+  "author": {
+    "name": "Enpiech",
+    "email": "enpiech@gmail.com"
+  }
+}
